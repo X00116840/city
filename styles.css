@@ -1,0 +1,29 @@
+.title{
+    font-size: 80px;
+    text-align: center;
+    background: silver;
+}
+
+.moto{
+    font-size: 40px;
+    text-align: center;
+    background: lightcyan;
+}
+
+.subtitle{
+    font-size: 30px;
+    text-align: center;
+    background: lightcyan;
+}
+
+.text{
+    font-size: 18px;
+    text-align: center;
+    background: skyblue;
+    font-weight: bold;
+}
+
+.image-frame{
+        text-align: center;
+        background: skyblue;
+}
